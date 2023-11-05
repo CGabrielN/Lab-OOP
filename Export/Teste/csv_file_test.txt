@@ -1,0 +1,4 @@
+32,Cristian,45,1 cam
+22,Dylan,80,3 cam
+13,Anton,56,2 cam
+12,Paul,60,2 cam

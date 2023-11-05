@@ -1,0 +1,5 @@
+F:/Facultate/AN1/SEM_2/OOP/Laborator14/cmake-build-debug/CMakeFiles/Laborator14.dir
+F:/Facultate/AN1/SEM_2/OOP/Laborator14/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/Facultate/AN1/SEM_2/OOP/Laborator14/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+F:/Facultate/AN1/SEM_2/OOP/Laborator14/cmake-build-debug/CMakeFiles/Laborator14_autogen_timestamp_deps.dir
+F:/Facultate/AN1/SEM_2/OOP/Laborator14/cmake-build-debug/CMakeFiles/Laborator14_autogen.dir
